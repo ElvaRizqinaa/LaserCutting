@@ -1,7 +1,7 @@
 # LaserCutting
 Proses desain untuk laser cutting menggunakan CorelDraw X6, sekaligus cara praktis mengoperasikan mesin laser cutter.
 
-# Praktikum Laser Cutting: Dari CorelDraw X6 ke Wujud Nyata
+# Praktikum Laser Cutting
 Repository ini mendokumentasikan keseluruhan alur kerja (*workflow*) pembuatan produk fisik menggunakan teknologi pemotongan laser pada material akrilik. 
 Proyek ini merupakan bagian dari pemenuhan tugas mata kuliah **Praktikum CAD CAM**, program studi **Teknologi Rekayasa Otomasi, Sekolah Vokasi Universitas Diponegoro**.
 
